@@ -6,13 +6,15 @@
 
 3.Name Conversion [URL](https://github.com/nafees354/JS-Name-Conversion)
 
-4.StopWatch [URL](https://github.com/nafees354/JS-StopWatch)
+4.Color Changer [URL](https://github.com/nafees354/JS-Colour-Changer)
 
-5.Calculator [URL](https://github.com/nafees354/JS-Calculator-)
+5.StopWatch [URL](https://github.com/nafees354/JS-StopWatch)
 
-6.Click Counter [URL](https://github.com/nafees354/JS-Click-Counter)
+6.Calculator [URL](https://github.com/nafees354/JS-Calculator-)
 
-7.See Typing [URL](https://github.com/nafees354/JS-See-Typing)
+7.Click Counter [URL](https://github.com/nafees354/JS-Click-Counter)
 
-8.Basic Counter [URL](https://github.com/nafees354/JS-Basic-Counter)
+8.See Typing [URL](https://github.com/nafees354/JS-See-Typing)
+
+9.Basic Counter [URL](https://github.com/nafees354/JS-Basic-Counter)
 
